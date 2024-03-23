@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishk14&label=Profile%20views&color=0e75b6&style=flat" alt="danishk14" /> </p>
 
-- 🔭 I’m currently working on **a project ( Hate speech Detection )**
+- 🔭 I’m currently working on **Machine learning and data analysis projects**
 
 - 🌱 I’m currently learning **Java, ML and AI**
 
-- 👯 I’m looking to work on **Data Science related Internships**
+- 👯 I’m looking to work on **Data Science Internships**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danishk14?tab=repositories](https://github.com/Danishk14?tab=repositories)
 
